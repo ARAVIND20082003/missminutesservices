@@ -1,0 +1,60 @@
+/*
+	@name desktop___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desktop___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__desktop___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:#;
+	background: -webkit-linear-gradient(-180deg , rgba(234.6,255,0,1) 0%, rgba(255,255,255,0) 100%);
+	background: -o-linear-gradient(-180deg , rgba(234.6,255,0,1) 0%, rgba(255,255,255,0) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(234.6,255,0,1) 0%, rgba(255,255,255,0) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(234.6,255,0,1) 0%, rgba(255,255,255,0) 100%);
+	background: linear-gradient(-180deg , rgba(234.6,255,0,1) 0%, rgba(255,255,255,0) 100%);
+}
+
+
+#rectangle_1 {
+	top: 248px;
+	left: 180px;
+	width: 1080px;
+	height: 721px;
+}
+
+
+#miss_minutes_services {
+	top: 126px;
+	left: 417px;
+	width: 776.5px;
+	height: 124.5px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 55px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */

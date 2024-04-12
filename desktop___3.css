@@ -1,0 +1,142 @@
+/*
+	@name desktop___3
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desktop___3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__desktop___3_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(82,105.33,227.79,0.65);
+}
+
+
+#rectangle_1 {
+	top: 291px;
+	left: 96px;
+	width: 1005px;
+	height: 608px;
+	-ms-border-radius: 96px;
+	-o-border-radius: 96px;
+	-moz-border-radius: 96px;
+	-webkit-border-radius: 96px;
+	border-radius: 96px;
+	background:rgba(243.09,179.88,179.88,1);
+}
+
+
+#rectangle_3 {
+	top: 750px;
+	left: 658px;
+	width: 256px;
+	height: 51px;
+	background:rgba(133,148,228,1);
+}
+
+
+#call_now {
+	top: 764px;
+	left: 706px;
+	width: 181.5px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Kokoro;
+	font-size: 25px;
+	text-align: left;
+	line-height: 38px;
+	margin-top: -4.3333333333333px;
+	height: 55.5px;
+	color:#000000;
+}
+
+
+#services_persons {
+	top: 70px;
+	left: 58px;
+	width: 900.5px;
+	height: 135.5px;
+	overflow: hidden;
+	font-family: Kdam Thmor;
+	font-size: 65px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_2 {
+	top: 366px;
+	left: 124px;
+	width: 398px;
+	height: 435px;
+}
+
+
+#medavakkam {
+	top: 317px;
+	left: 553px;
+	width: 533.5px;
+	height: 118.5px;
+	overflow: hidden;
+	font-family: Kdam Thmor;
+	font-size: 65px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#name___vimal_raj_experience__7_years_type__bike_mechanic {
+	top: 464px;
+	left: 582px;
+	width: 456.5px;
+	height: 272.5px;
+	overflow: hidden;
+	font-family: Kdam Thmor;
+	font-size: 35px;
+	text-align: left;
+	color:#000000;
+}
+
+#left_circle_2 {
+	top: 511px;
+	left: 10px;
+	width: 76px;
+	height: 73px;
+}
+
+#_bg__left_circle_2_ek1 {
+	top: -511px;
+	left: -10px;
+	width: 76px;
+	height: 73px;
+	background:#;
+}
+
+
+#vector {
+	top: 0px;
+	left: 75px;
+	width: 76px;
+	height: 73px;
+}
+
+
+
+/* Add your custom CSS here */
